@@ -17,3 +17,5 @@ To execute an assignment follow the steps:
   2. Open folder through "VS Code"
   3. Go to "Home.html"
   4. Click "Live Server"
+----------------
+Labelled outputs are given in "Output" folder
