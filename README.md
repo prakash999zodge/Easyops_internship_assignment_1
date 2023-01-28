@@ -4,7 +4,7 @@ Recommendation - VS Code
 
     if(VSCode == Installed)
     {
-        Download(Live_Server);
+        DownloadExtension(Live_Server);
     }
     else
     {
